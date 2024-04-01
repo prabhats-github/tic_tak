@@ -1,0 +1,16 @@
+#o{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+
+}
+
+table td{
+    border: 2px solid rgb(0, 0, 0);
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 60px;
+}
+
